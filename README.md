@@ -60,7 +60,7 @@ streamlit run dashboard/dashboard.py
 Buka alamat yang muncul di terminal (biasanya http://localhost:8501).
 
 ## Dashboard Online
-[tempel URL Streamlit Cloud di sini, sama dengan isi url.txt]
+[https://bike-sharing-dash-project.streamlit.app/]
 
 ## Menjalankan Notebook
 Buka `notebook.ipynb` dengan Jupyter Notebook, VS Code, atau Google Colab, lalu jalankan semua sel dari atas (Run All). Dataset dibaca dari folder `data/`.
