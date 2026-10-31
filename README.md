@@ -63,4 +63,4 @@ Buka alamat yang muncul di terminal (biasanya http://localhost:8501).
 https://bike-sharing-dash-project.streamlit.app/
 
 ## Menjalankan Notebook
-Buka `notebook.ipynb` dengan Jupyter Notebook, VS Code, atau Google Colab, lalu jalankan semua sel dari atas (Run All). Dataset dibaca dari folder `data/`.
+Dataset ada di folder data/ (day.csv). Notebook membaca file bernama day.csv, jadi salin day.csv ke folder yang sama dengan notebook sebelum menjalankan ulang.
